@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Bacabac_game
+#
+
+projectname: Bacabac_game
+vendorid: com.mycompany
+mainmodule: com.mycompany.bacabacgame
